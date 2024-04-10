@@ -20,7 +20,7 @@
 -include .env
 
 BIN_NAME := hrx
-UNTAGGED_VERSION := v0.0.0
+UNTAGGED_VERSION := v0.5.0
 UNTAGGED_COMMIT := 0000000000
 
 SHELL := /bin/bash
