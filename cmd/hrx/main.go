@@ -26,7 +26,7 @@ import (
 
 var (
 	AppName       = "hrx"
-	AppVersion    = "v0.5.x"
+	AppVersion    = "v0.5.1"
 	AppUsageText  = `hrx [global options] <-l|-c|-x> -f <archive> [pathnames...]`
 	AppUsageBrief = "usage: " + AppUsageText + "\n" + `       hrx --help
        hrx --list -f existing.hrx
